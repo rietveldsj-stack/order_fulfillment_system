@@ -1,0 +1,20 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+
+
+# local config with real credentials - never commit
+src/main/resources/application.properties
